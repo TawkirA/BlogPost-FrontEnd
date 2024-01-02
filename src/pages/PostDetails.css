@@ -1,0 +1,46 @@
+.header-cont {
+    background-color: aquamarine;
+    color: teal;
+    display: flex;
+    margin-top: 1rem;
+    /* flex-flow: column; */
+}
+.post-title {    
+    padding: 1rem;
+    font-size: larger;
+    font-weight: 600;
+    width: 90%;
+}
+.edit-btn {
+    padding: 1rem;
+    flex-direction: row;
+    float: right;
+}
+
+.desc-cont {
+    background-color:azure;
+    color: teal;
+    min-height: 20rem;    
+    padding: 1rem;
+    max-height: max-content;
+    font-size: medium;
+    font-style: italic;
+}
+
+.post-footer {
+    background-color: aquamarine;
+    color: teal;
+    display: flex;
+    padding: 0.7rem;
+}
+
+.post-footer div {
+    width: 50%;
+}
+
+.post-footer span {
+    font-weight: 600;
+}
+
+
+

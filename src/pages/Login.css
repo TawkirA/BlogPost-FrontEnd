@@ -1,0 +1,20 @@
+.login-cont {
+    width: 40%;
+    /* border: 1px solid lightgreen; */
+    margin: 3rem auto;
+    text-align: center;
+    box-shadow: 1px 1px 5px teal;
+    border-radius: 3px;
+    padding: 0.5rem;
+}
+
+h1 span {
+    vertical-align: sub;
+}
+
+.register-link {
+    font-size:smaller;
+    font-style: italic;
+    font-weight: 600;
+    color: teal;
+}
